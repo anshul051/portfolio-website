@@ -318,7 +318,7 @@ export default function App() {
           <p className="text-xl md:text-2xl text-white/50 max-w-2xl leading-relaxed">
             Web Developer skilled in{" "}
             <span className="text-white">
-              MERN, React.js, Tailwind, REST APIs
+              MERN, React.js, Tailwind, REST APIs 
             </span>
             with strong problem-solving and clean UI development experience.
           </p>
