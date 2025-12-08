@@ -193,19 +193,19 @@ const ProjectList = () => {
       id: 1,
       title: "Login & Registration System (MERN)",
       category: "MongoDB / Express / React / Node",
-      image: "src/public/images/auth-mern-woad.vercel.app_.png",
+      image: "./src/public/images/mern-auth.png",
     },
     {
       id: 2,
       title: "Search Filter App",
       category: "React / Tailwind",
-      image: "src/public/images/searchFilter.png",
+      image: "./src/public/images/searchFilter.png",
     },
     {
       id: 3,
       title: "To-Do Web App",
       category: "JavaScript / HTML / CSS",
-      image: "src/public/images/anshul051.github.io_To-do-web-app_.png",
+      image: "./src/public/images/to-do-app.png",
     },
   ];
 
